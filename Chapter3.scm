@@ -30,10 +30,3 @@
 
 (define answer-2.5
     (cons 2 (cons 1 '())))
-;;; The following are the answers to Exercise 2
-;;;
-;;; 1: 0
-;;; 2: ()
-;;; 3: (1 2 3)
-;;; 4: (2 3 . 4)
-;;; 5: (2 1)
